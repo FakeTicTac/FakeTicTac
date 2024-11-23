@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
 </p>
